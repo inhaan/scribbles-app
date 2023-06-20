@@ -1,0 +1,6 @@
+.erasing {
+  cursor: url("/public/img/eraser-cursor.cur"), auto;
+}
+.drawing {
+  cursor: url("/public/img/pencil-cursor.cur"), auto;
+}
