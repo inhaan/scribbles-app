@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/scribbles-app/static/css/main.cf36f41a.css",
+    "main.js": "/scribbles-app/static/js/main.a3826a6d.js",
+    "static/js/787.ce000f29.chunk.js": "/scribbles-app/static/js/787.ce000f29.chunk.js",
+    "static/media/eraser-cursor.cur": "/scribbles-app/static/media/eraser-cursor.bc64007e513e121fb809.cur",
+    "static/media/pencil-cursor.cur": "/scribbles-app/static/media/pencil-cursor.8f3629c45e1290c28b89.cur",
+    "index.html": "/scribbles-app/index.html",
+    "main.cf36f41a.css.map": "/scribbles-app/static/css/main.cf36f41a.css.map",
+    "main.a3826a6d.js.map": "/scribbles-app/static/js/main.a3826a6d.js.map",
+    "787.ce000f29.chunk.js.map": "/scribbles-app/static/js/787.ce000f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf36f41a.css",
+    "static/js/main.a3826a6d.js"
+  ]
+}
